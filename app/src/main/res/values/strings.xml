@@ -1,0 +1,63 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Blood Help</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string-array name="blood_group_array">
+        <item>Select blood group</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>Bombay</item>
+    </string-array>
+    <!--<string name="app_name">Animations Demo</string>-->
+    <string name="title_crossfade">Simple Crossfade</string>
+    <string name="title_card_flip">Card Flip</string>
+    <string name="title_screen_slide">Screen Slide</string>
+    <string name="title_zoom">Zoom</string>
+    <string name="title_layout_changes">Layout Changes</string>
+    <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: Lorem
+        Ipsum</string>
+
+    <!-- Actions -->
+    <string name="action_toggle">Toggle indicator</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+
+    <!-- Messages -->
+    <string name="message_empty_layout_changes">Add an item above to get started.</string>
+    <string name="message_zoom_touch_expand">Touch a photo to expand it.</string>
+
+    <!-- Accessibility-only descriptions -->
+    <string name="description_image_1">Image 1</string>
+    <string name="description_image_2">Image 2</string>
+    <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+
+    <!-- Other strings -->
+    <string name="card_back_title">Angry Red Android</string>
+    <string name="card_back_description"><![CDATA[Lorem ipsum dolor sit]]></string>
+    <string name="lorem_ipsum1"></string>
+    <string name="lorem_ipsum2"></string>
+    <string name="title_activity_hospital_map">Map</string>
+    <string name="hospTitle">Choose a Hospital</string>
+    <string name="donorTile">Choose a Donor</string>
+
+</resources>
