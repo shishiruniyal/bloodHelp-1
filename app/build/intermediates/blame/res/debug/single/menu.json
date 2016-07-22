@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/som/AndroidStudioProjects/ServeletTest/app/build/intermediates/res/merged/debug/menu/activity_screen_slide.xml",
+        "source": "/home/som/AndroidStudioProjects/ServeletTest/app/src/main/res/menu/activity_screen_slide.xml"
+    },
+    {
+        "merged": "/home/som/AndroidStudioProjects/ServeletTest/app/build/intermediates/res/merged/debug/menu/activity_layout_changes.xml",
+        "source": "/home/som/AndroidStudioProjects/ServeletTest/app/src/main/res/menu/activity_layout_changes.xml"
+    },
+    {
+        "merged": "/home/som/AndroidStudioProjects/ServeletTest/app/build/intermediates/res/merged/debug/menu/activity_crossfade.xml",
+        "source": "/home/som/AndroidStudioProjects/ServeletTest/app/src/main/res/menu/activity_crossfade.xml"
+    }
+]
